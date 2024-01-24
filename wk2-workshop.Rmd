@@ -2,7 +2,7 @@
 title: "Week 2 Lecture"
 author: "Leo Qi Jie, Justin"
 date: "2024-01-24"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
